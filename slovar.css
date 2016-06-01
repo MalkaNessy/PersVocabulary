@@ -1,0 +1,8 @@
+body {background-color:#F5DEB3}
+h1   {color:blue}
+p.intro {
+    font-family: Verdana; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #8B4513
+}
